@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="bawaforl">
+  <Package name="baw_main">
+    <Container name="Names">
+      <Key ID="STR_BAW_AUTHOR_FULL">
+        <Original>Badgers Community</Original>
+        <English>Badgers Community</English>
+        <French>Badgers Community</French>
+        <Spanish>Badgers Community</Spanish>
+        <Italian>Badgers Community</Italian>
+        <Polish>Badgers Community</Polish>
+        <Portuguese>Badgers Community</Portuguese>
+        <Russian>Badgers Community</Russian>
+        <German>Badgers Community</German>
+      </Key>
+      <Key ID="STR_BAW_AUTHOR_SHORT">
+        <Original>Badgers</Original>
+        <English>Badgers</English>
+        <French>Badgers</French>
+        <Spanish>Badgers</Spanish>
+        <Italian>Badgers</Italian>
+        <Polish>Badgers</Polish>
+        <Portuguese>Badgers</Portuguese>
+        <Russian>Badgers</Russian>
+        <German>Badgers</German>
+      </Key>
+    </Container>
+    <Container name="Product">
+      <Key ID="STR_BAW_PRODUCT_FULL">
+        <Original>BAW: Armed Forces of The Orthodox Republic of Limons</Original>
+        <English>BAW: Armed Forces of The Orthodox Republic of Limons</English>
+        <French>BAW: Armed Forces of The Orthodox Republic of Limons</French>
+        <Spanish>BAW: Armed Forces of The Orthodox Republic of Limons</Spanish>
+        <Italian>BAW: Armed Forces of The Orthodox Republic of Limons</Italian>
+        <Polish>BAW: Armed Forces of The Orthodox Republic of Limons</Polish>
+        <Portuguese>BAW: Armed Forces of The Orthodox Republic of Limons</Portuguese>
+        <Russian>BAW: Armed Forces of The Orthodox Republic of Limons</Russian>
+        <German>BAW: Armed Forces of The Orthodox Republic of Limons</German>
+      </Key>
+      <Key ID="STR_BAW_PRODUCT_SHORT">
+        <Original>BAW: AFORL</Original>
+        <English>BAW: AFORL</English>
+        <French>BAW: AFORL</French>
+        <Spanish>BAW: AFORL</Spanish>
+        <Italian>BAW: AFORL</Italian>
+        <Polish>BAW: AFORL</Polish>
+        <Portuguese>BAW: AFORL</Portuguese>
+        <Russian>BAW: AFORL</Russian>
+        <German>BAW: AFORL</German>
+      </Key>
+      <Key ID="STR_BAW_PRODUCT_OVERVIEW">
+        <Original>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Original>
+        <English>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</English>
+        <French>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</French>
+        <Spanish>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Spanish>
+        <Italian>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Italian>
+        <Polish>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Polish>
+        <Portuguese>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Portuguese>
+        <Russian>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Russian>
+        <German>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</German>
+      </Key>
+      <Key ID="STR_BAW_PRODUCT_DESCRIPTION">
+        <Original>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Original>
+        <English>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</English>
+        <French>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</French>
+        <Spanish>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Spanish>
+        <Italian>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Italian>
+        <Polish>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Polish>
+        <Portuguese>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Portuguese>
+        <Russian>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</Russian>
+        <German>Armed Forces of The Orthodox Republic of Limons faction and ORBAT</German>
+      </Key>
+      <Key ID="STR_BAW_PRODUCT_TOOLTIP">
+        <Original>BAW: AFORL</Original>
+        <English>BAW: AFORL</English>
+        <French>BAW: AFORL</French>
+        <Spanish>BAW: AFORL</Spanish>
+        <Italian>BAW: AFORL</Italian>
+        <Polish>BAW: AFORL</Polish>
+        <Portuguese>BAW: AFORL</Portuguese>
+        <Russian>BAW: AFORL</Russian>
+        <German>BAW: AFORL</German>
+      </Key>
+      <Key ID="STR_BAW_PRODUCT_TOOLTIP_OWNED">
+        <Original>BAW: AFORL - Owned</Original>
+        <English>BAW: AFORL - Owned</English>
+        <French>BAW: AFORL - Owned</French>
+        <Spanish>BAW: AFORL - Owned</Spanish>
+        <Italian>BAW: AFORL - Owned</Italian>
+        <Polish>BAW: AFORL - Owned</Polish>
+        <Portuguese>BAW: AFORL - Owned</Portuguese>
+        <Russian>BAW: AFORL - Owned</Russian>
+        <German>BAW: AFORL - Owned</German>
+      </Key>
+    </Container>
+    <Container name="Hints">
+
+    </Container>
+    <Container name="Flags">
+      <Key ID="STR_BAW_FLAG_ORL">
+        <Original>Orthodox Republic of Limnos</Original>
+        <English>Orthodox Republic of Limnos</English>
+        <French>Orthodox Republic of Limnos</French>
+        <Spanish>Orthodox Republic of Limnos</Spanish>
+        <Italian>Orthodox Republic of Limnos</Italian>
+        <Polish>Orthodox Republic of Limnos</Polish>
+        <Portuguese>Orthodox Republic of Limnos</Portuguese>
+        <Russian>Orthodox Republic of Limnos</Russian>
+        <German>Orthodox Republic of Limnos</German>
+      </Key>
+    </Container>
+  </Package>
+</Project>

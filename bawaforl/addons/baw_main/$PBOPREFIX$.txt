@@ -1,0 +1,1 @@
+prefix=bawaforl\addons\baw_main
